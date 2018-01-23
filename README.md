@@ -1,2 +1,2 @@
-<h0.5> Deceptive-Giraffes </h0.5>
+<h1> Deceptive-Giraffes </h1>
 <h2>A bunch of random Projects</h2>
